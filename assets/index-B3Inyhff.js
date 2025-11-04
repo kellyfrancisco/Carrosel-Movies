@@ -528,7 +528,7 @@ to{
 `;function Rx(){const[e,t]=T.useState(),[n,r]=T.useState(),[i,o]=T.useState(),[s,a]=T.useState();return T.useEffect(()=>{async function l(){Promise.all([WS(),cm(),dm(),GS()]).then(([u,c,d,p])=>{t(u),r(c),o(d),a(p)}).catch(u=>console.error(u))}l()},[]),k.jsxs(Ox,{children:[k.jsx(mm,{}),e&&k.jsx(Ne,{info:e,title:"Sendo Reproduzidos"}),i&&k.jsx(Ne,{info:i,title:"Filmes Mais Vistos"}),n&&k.jsx(Ne,{info:n,title:"Top Filmes"}),s&&k.jsx(Ne,{info:s,title:"Em Breve"})]})}const Nx=H.body`
   overflow-x: hidden;
   padding-top: 120px;
-`;function Lx(){const[e,t]=T.useState(),[n,r]=T.useState(),[i,o]=T.useState(),[s,a]=T.useState();return T.useEffect(()=>{async function l(){Promise.all([QS(),KS(),pm(),fm()]).then(([u,c,d,p])=>{t(u),r(c),o(d),a(p)}).catch(u=>console.error(u))}l()},[]),k.jsxs(Nx,{children:[k.jsx(mm,{}),e&&k.jsx(Ne,{info:e,title:"Estreias"}),n&&k.jsx(Ne,{info:n,title:"No Ar"}),i&&k.jsx(Ne,{info:i,title:"Séries Populares"}),s&&k.jsx(Ne,{info:s,title:"Top Séries"})]})}const Ix="/assets/logo-CDX4ecTm.png",Mx=H.div`
+`;function Lx(){const[e,t]=T.useState(),[n,r]=T.useState(),[i,o]=T.useState(),[s,a]=T.useState();return T.useEffect(()=>{async function l(){Promise.all([QS(),KS(),pm(),fm()]).then(([u,c,d,p])=>{t(u),r(c),o(d),a(p)}).catch(u=>console.error(u))}l()},[]),k.jsxs(Nx,{children:[k.jsx(mm,{}),e&&k.jsx(Ne,{info:e,title:"Estreias"}),n&&k.jsx(Ne,{info:n,title:"No Ar"}),i&&k.jsx(Ne,{info:i,title:"Séries Populares"}),s&&k.jsx(Ne,{info:s,title:"Top Séries"})]})}const Ix="/Carrosel-Movies/assets/logo-CDX4ecTm.png",Mx=H.div`
   min-height: 100px;
   z-index: 999;
   position: fixed;
