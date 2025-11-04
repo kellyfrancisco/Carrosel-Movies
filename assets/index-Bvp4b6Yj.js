@@ -597,4 +597,4 @@ to{
 body{
     background: #000000;
 }
-`;fl.createRoot(document.getElementById("root")).render(k.jsxs(V.StrictMode,{children:[k.jsx(V0,{children:k.jsx($x,{})}),k.jsx(Dx,{})]}));
+`;fl.createRoot(document.getElementById("root")).render(k.jsxs(V.StrictMode,{children:[k.jsx(V0,{basename:"/Carrosel-Movies/",children:k.jsx($x,{})}),k.jsx(Dx,{})]}));
